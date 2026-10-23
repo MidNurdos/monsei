@@ -2,7 +2,7 @@
 // As respostas da IA (Hugging Face) NUNCA são guardadas em cache:
 // só pedidos para o próprio site passam por aqui.
 
-const CACHE = "monsei-v2";
+const CACHE = "monsei-v3";
 const SHELL = [
   "./",
   "./index.html",
